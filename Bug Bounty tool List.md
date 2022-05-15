@@ -1,4 +1,4 @@
-Complete Bug Bounty tool List 🧉
+Complete Bug Bounty tool List 
 
 
 dnscan 
